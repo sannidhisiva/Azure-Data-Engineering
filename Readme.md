@@ -38,7 +38,7 @@ Azure Cosmos DB:
 
 Azure SQL:
 
-Azure HD Insight:
+Azure HD Insights:
 
 Azure DataBricks:
 
@@ -47,6 +47,8 @@ Azure Stream Analytics:
 Azure Data Factory:
 
 Azure Synapse Analytics:
+
+Power BI:
 
 Azure Purview: 
 
