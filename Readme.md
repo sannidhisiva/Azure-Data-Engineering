@@ -55,6 +55,12 @@ Azure Purview:
 
 https://microsoft.github.io/PartnerResources/skilling/azure-data-academy
 
+**Azure Data Architecture:**
+
+https://learn.microsoft.com/en-us/azure/architecture/data-guide/
+
+
+
 **Azure Data Certifications**
 
 https://learn.microsoft.com/en-us/certifications/exams/dp-900
