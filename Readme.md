@@ -34,23 +34,57 @@ Azure Data Storage:
 
 Azure Data Lake :
 
+https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
+
 Azure Cosmos DB:
+
+https://learn.microsoft.com/en-us/azure/cosmos-db/introduction
+
 
 Azure SQL:
 
+https://azure.microsoft.com/en-us/products/azure-sql/
+
+
 Azure HD Insights:
+
+https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview
+
 
 Azure DataBricks:
 
+https://learn.microsoft.com/en-us/azure/databricks/introduction/
+
+
 Azure Stream Analytics:
+
+https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction
+
 
 Azure Data Factory:
 
+https://learn.microsoft.com/en-us/azure/data-factory/introduction
+
+
 Azure Synapse Analytics:
+
+https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is
+
 
 Power BI:
 
+https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+
+
+Azure Data Explorer: 
+
+https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview
+
+
 Azure Purview: 
+
+https://learn.microsoft.com/en-us/azure/purview/overview
 
 
 **Azure Data Academy:**
